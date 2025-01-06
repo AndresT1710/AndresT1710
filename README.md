@@ -5,16 +5,20 @@
 </div>
 
 ---
+👨‍💻 **Sobre mí**  
+🎓 Estudiante de **Ingeniería en Software** en la **Universidad Técnica de Ambato** (2025)  
+🔧 **Proyectos destacados**:  
+- **Sistema de Gestión de Materiales** en el área de logística para una empresa de calzado, optimizando el control de inventarios y procesos internos.  
+- **Sistema de Control de Estudiantes** para una institución educativa, mejorando la administración y seguimiento de estudiantes.  
+- **Sistema de Gestión para un Emprendimiento** enfocado en mejorar la eficiencia de procesos administrativos y tareas operativas en un pequeño negocio.  
 
-Soy un estudiante de Ingeniería en Software con un gran interés en el desarrollo Frontend. Desde joven, la tecnología ha sido mi pasión, lo que me llevó a adentrarme en el mundo de la programación. A lo largo de mi formación
+🌱 Apasionado por aprender y trabajar con **React**, **Angular**, **Node.js**, **MongoDB**, **SQL**, **Python**, especialmente en el **Frontend**, buscando siempre la mejor experiencia de usuario.  
 
-
----
-<div align="left">
-    <h3>🔨 Languajes</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="ORACLE" width="40" height="40" />&nbsp;
-</div>
+📲 **Lenguajes y Tecnologías que conozco**:  
+- **JavaScript** (incluyendo **React** y **Node.js**)  
+- **HTML** y **CSS** (Diseño y estructuración de interfaces web)  
+- **MongoDB** y **SQL** (Base de datos y gestión de información)  
+- **Python** (Desarrollo Backend y proyectos de ciencia de datos)
 
 ---
 
