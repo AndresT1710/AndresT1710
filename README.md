@@ -26,6 +26,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndresT1710&theme=tokionight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresT1710&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
