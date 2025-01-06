@@ -15,10 +15,11 @@
 🌱 Apasionado por aprender y trabajar con **React**, **Angular**, **Node.js**, **MongoDB**, **SQL**, **Python**, especialmente en el **Frontend**, buscando siempre la mejor experiencia de usuario.  
 
 📲 **Lenguajes y Tecnologías que manejo**:  
+
 <p align="center">
   <a href="https://skillicons.dev">
-   [![JavaScript, React, Node.js, HTML, CSS, MongoDB, SQL, Python](https://skillicons.dev/icons?i=js,react,nodejs,html,css,mongodb,sql,python&perline=4)](https://skillicons.dev)
- </a>
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mongodb,sql,python" />
+  </a>
 </p>
 
 ### 📝 Certificaciones  
