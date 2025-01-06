@@ -20,9 +20,9 @@
 - **MongoDB** y **SQL** (Base de datos y gestión de información)  
 - **Python** (Desarrollo Backend y proyectos de ciencia de datos)
 
----
+--- 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresT1710&theme=dark&locale=es)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresT1710&theme=chartreuse-dark_icons=true)
 
 ---
 
