@@ -23,8 +23,8 @@
 </p>
 
 ### 📝 Certificaciones  
-- **Cloud Computing** | Google  
-- **Introducción a HTML y CSS** | Google
+- **Cloud Computing** | Google  [![My Skills](https://skillicons.dev/icons?i=google)](https://skillicons.dev)
+- **Introducción a HTML y CSS** | Google  [![My Skills](https://skillicons.dev/icons?i=google)](https://skillicons.dev)
 
 
 --- 
