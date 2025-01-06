@@ -6,8 +6,8 @@
 
 ---
 
-- 🔭 I'm currently studying on [FISEI - UTA](https://fisei.uta.edu.ec/v4.0/)
-- 🌱 I'm currently learning JavaScript, PHP.
+Soy un estudiante de Ingeniería en Software con un gran interés en el desarrollo Frontend. Desde joven, la tecnología ha sido mi pasión, lo que me llevó a adentrarme en el mundo de la programación. A lo largo de mi formación
+
 
 ---
 <div align="left">
