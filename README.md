@@ -29,8 +29,6 @@
 
 --- 
 
-Contactos
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresT1710&theme=chartreuse-dark_icons=true)
